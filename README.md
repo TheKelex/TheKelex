@@ -1,16 +1,13 @@
-## Hi there 👋
-
 <!--
-**TheKelex/TheKelex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+CONFIG
+FULL_NAME: Kevin Santiago Saavedra Chantris
+GITHUB_USER: TheKelex
+EMAIL: ksaavedrachantris@gmail.com
+CODE_ORGANIZATION: code-sena
 -->
+
+<h1 align="center">Kevin Santiago Saavedra Chantris</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheKelex&label=Profile%20views&style=flat" alt="Profile views">
+</p>
