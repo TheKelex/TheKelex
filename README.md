@@ -32,7 +32,7 @@ CODE_ORGANIZATION: code-sena
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKelex&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub streak](https://streak-stats.demolab.com?user=TheKelex&theme=tokyonight)
 
 ---
 
