@@ -8,7 +8,7 @@ CODE_ORGANIZATION: code-sena
 
 # 👋 Hola, soy Kevin :D
 
-💻 Desarrollador en proceso (Cursando Tecnólogo en ADSO)  
+💻 Desarrollador en proceso (Cursando Tecnólogo en ADSO)
 🚀 Aprendiendo sobre programación y desarrollo de software
 📍 Colombia 🇨🇴  
 
@@ -32,7 +32,7 @@ CODE_ORGANIZATION: code-sena
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKelex&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKelex&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
