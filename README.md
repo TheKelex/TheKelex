@@ -33,6 +33,7 @@ CODE_ORGANIZATION: code-sena
 ## 📊 Estadísticas
 
 ![GitHub streak](https://streak-stats.demolab.com?user=TheKelex&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKelex&show_icons=true&theme=tokyonight)
 
 ---
 
