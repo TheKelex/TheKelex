@@ -8,9 +8,9 @@ CODE_ORGANIZATION: code-sena
 
 # 👋 Hola, soy Kevin :D
 
-💻 Desarrollador en proceso (Cursando Tecnólogo en ADSO)
-🚀 Aprendiendo sobre programación y desarrollo de software
-📍 Colombia 🇨🇴  
+💻 Desarrollador en proceso (Cursando Tecnólogo en ADSO)  
+🚀 Aprendiendo sobre programación y desarrollo de software 
+📍 Colombia 🇨🇴 
 
 ---
 
