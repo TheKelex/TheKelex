@@ -6,8 +6,57 @@ EMAIL: ksaavedrachantris@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
-<h1 align="center">Kevin Santiago Saavedra Chantris</h1>
+# 👋 Hola, soy Kevin :D
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheKelex&label=Profile%20views&style=flat" alt="Profile views">
-</p>
+💻 Desarrollador en proceso (Cursando Tecnólogo en ADSO)  
+🚀 Aprendiendo sobre programación y desarrollo de software
+📍 Colombia 🇨🇴  
+
+---
+
+## 🧠 Sobre mí
+
+- 🎮 Me gusta crear pequeños proyectos
+- 🧩 Me gusta resolver problemas
+- ⚡ Siempre buscando mejorar
+
+---
+
+## 🛠️ Tecnologías que uso
+
+- 💻 Bases de Datos (SQL)
+- 🌐 HTML / CSS / JS / PHP (Básico)
+- ⚙️ Git & GitHub
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKelex&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Proyectos destacados
+
+- 🚪 **POE (Plan de Orientación Escolar)**  
+- 💀 **Página Index** → http://www.tecnicosuperiorneiva.com.co  
+
+---
+
+## 🏆 Participación en concursos
+
+- 🥇 Encuentro de habilidades SENA 2025 (Neiva - Huila)
+
+---
+
+## 📫 Contacto
+
+- 💬 Discord: TheKelex  
+- 💻 GitHub: https://github.com/TheKelex  
+
+---
+
+## 😎 Frase random
+
+> "Si no funciona... reinicia.  
+> Si sigue sin funcionar... llora un rato y vuelve a intentar :')"
